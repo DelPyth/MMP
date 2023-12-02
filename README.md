@@ -1,3 +1,6 @@
+# Archived?
+It's old. It's spagetti code. It's bad. No.
+
 # MMP
 Need a lightweight and easy to use Multi-Media Player? Look no further!
 
